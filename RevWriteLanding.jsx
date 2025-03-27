@@ -11,7 +11,7 @@ export default function RevWriteLanding() {
           Built for Course Creators, Coaches & Founders who want results fast.
         </p>
         <a
-          https://revwrite-landing.vercel.app/"
+          https://docs.google.com/forms/d/e/1FAIpQLSdUw5LTv0DyeNpTYxWoj0wG0T_HuJ6bemhQK91HZR-1kHKIzQ/viewform?usp=sharing"
           className="bg-orange-500 text-black px-6 py-3 rounded-2xl font-bold shadow-lg hover:bg-orange-400"
         >
           Work With Me
